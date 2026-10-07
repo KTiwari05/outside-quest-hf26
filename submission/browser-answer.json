@@ -1,0 +1,22 @@
+{
+  "checked_date": "2026-10-07",
+  "method": "Real browser form submission through Vite proxy to local FastAPI and Ollama",
+  "status": 200,
+  "selection": {"minutes": 20, "surroundings": "neighborhood", "pace": "stay"},
+  "response": {
+    "quest": {
+      "title": "Neighborhood Quiet Watch",
+      "invitation": "Sit comfortably in your safe outdoor spot and observe for 20 minutes",
+      "steps": [
+        "Notice three different colors you see without touching anything",
+        "Listen for one sound that changes its quality over time",
+        "Feel your body's position in the current space for 10 seconds"
+      ],
+      "reflection": "What does your body tell you about the space you're in now?"
+    },
+    "model": "qwen3:4b",
+    "seconds": 45.74
+  },
+  "mobile_overflow": false,
+  "prompt_note": "Captured after adding the solo-activity instruction and before adding the explicit stroll/bench instruction. This is the activity in the walkthrough."
+}

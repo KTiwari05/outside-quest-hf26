@@ -1,0 +1,48 @@
+[
+  {
+    "checked_at": "2026-10-07T15:34:14.279057+00:00",
+    "selection": {
+      "minutes": 10,
+      "surroundings": "park",
+      "pace": "stroll"
+    },
+    "status": 200,
+    "response": {
+      "quest": {
+        "title": "Park Soundscape Walk",
+        "invitation": "Take a 10-minute stroll in your park to listen to natural sounds without headphones.",
+        "steps": [
+          "Walk slowly along a familiar path, noticing sounds you hear without focusing on one.",
+          "Pause at a quiet spot to identify three distinct sounds you hear clearly.",
+          "Return to your starting point, reflecting on how sounds changed during your walk."
+        ],
+        "reflection": "How did the sounds you heard shift from your starting point to the end of your walk?"
+      },
+      "model": "qwen3:4b",
+      "seconds": 27.23
+    }
+  },
+  {
+    "checked_at": "2026-10-07T15:34:31.896931+00:00",
+    "selection": {
+      "minutes": 5,
+      "surroundings": "balcony",
+      "pace": "stay"
+    },
+    "status": 200,
+    "response": {
+      "quest": {
+        "title": "Balcony Quiet Moments",
+        "invitation": "Take 5 minutes to quietly observe your balcony from a seated spot.",
+        "steps": [
+          "Notice three different colors you see in the immediate surroundings without touching anything.",
+          "Identify one sound that is currently happening near you and describe it simply.",
+          "Feel the temperature of the air on your skin and note how it feels compared to your last observation."
+        ],
+        "reflection": "How does the quiet observation change your sense of the present moment?"
+      },
+      "model": "qwen3:4b",
+      "seconds": 17.53
+    }
+  }
+]
