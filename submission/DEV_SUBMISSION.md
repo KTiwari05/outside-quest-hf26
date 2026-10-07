@@ -1,6 +1,6 @@
 ---
 title: "Outside Quest: three steps, then put the screen away"
-published: false
+published: true
 tags: devchallenge, hf26challenge
 ---
 

@@ -19,7 +19,14 @@ See README for setup. Local serving does not establish public deployment.
 Read submission/VERIFICATION.md for current evidence. Outdoor testing, personal
 feedback, public hosting of source/demo, DEV publication, challenge registration,
 and sticker credit must each be established separately. Do not invent these claims.
-The DEV file is a local draft, not a submission. It has the Week 1 template and tags.
+The DEV entry was published October 7, 2026 at 16:01:22 UTC:
+https://dev.to/ktiwari05/outside-quest-three-steps-then-put-the-screen-away-4oea
+Public DEV API article ID: 4813278. Required tags `devchallenge` and
+`hf26challenge`, code link, and video link were verified without authentication.
+The public repository is https://github.com/KTiwari05/outside-quest-hf26.
+DEV was already logged in as ktiwari05; challenge signup was checked.
+The article displays AI-assisted disclosure. Outdoor use and reward credit remain
+unverified. The DEV markdown is now the published article source.
 
 Preserve Interview Buddy as a separate, earlier project. It was inspected for the
 existing local inference setup; no changes to that project are part of this task.

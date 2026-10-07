@@ -94,10 +94,12 @@ and their limits. [Live API responses](submission/live-answers.json) and the
 browser receipt preserve real generation output. The production build contains
 only local assets and uses system fonts.
 
-The [DEV article draft](submission/DEV_SUBMISSION.md) follows the official Week 1
-template. Use the [submission checklist](submission/SUBMIT_CHECKLIST.md) to finish
-the outdoor trial and public links. Neither a local Git repository nor a draft
-article establishes a submitted challenge entry.
+The [DEV Week 1 submission](https://dev.to/ktiwari05/outside-quest-three-steps-then-put-the-screen-away-4oea)
+was published October 7, 2026 with `devchallenge` and `hf26challenge` tags.
+The [video walkthrough](submission/demo/outside-quest-walkthrough.webm) and
+[article source](submission/DEV_SUBMISSION.md) are included here. The
+[submission checklist](submission/SUBMIT_CHECKLIST.md) records the publication
+status. Outdoor use and Hacktoberfest reward credit remain unverified.
 
 ## Licenses and credits
 

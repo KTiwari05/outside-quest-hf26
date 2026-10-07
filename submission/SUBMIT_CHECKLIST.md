@@ -24,5 +24,14 @@ to leave time to check the public links.
 
 Rules: https://dev.to/page/hacktoberfest-week1-2026-10-05-contest-rules
 
-Status: local implementation and submission preparation. No public submission,
-challenge signup, outdoor trial, or account reward is claimed.
+Status verified October 7, 2026:
+
+- DEV account `ktiwari05` was already logged in and challenge signup was checked.
+- Public source and demo: https://github.com/KTiwari05/outside-quest-hf26.
+- Published at 16:01:22 UTC (9:31:22 PM IST):
+  https://dev.to/ktiwari05/outside-quest-three-steps-then-put-the-screen-away-4oea.
+- Public DEV API article ID 4813278 confirmed publication, both required tags,
+  source and video links, and no drafting notes. Public article, repository,
+  screenshots, and video returned HTTP 200 without authentication.
+- Article displays AI-assisted disclosure. No outdoor trial, public inference
+  deployment, or Hacktoberfest reward credit is claimed.
