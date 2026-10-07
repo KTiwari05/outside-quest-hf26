@@ -25,17 +25,22 @@ read, then put the screen away.
 I have not yet tested the activity outdoors or measured whether it changes anyone's
 screen time. The current evidence covers the software and local model workflow.
 
-[Before publishing: try one activity outside. Replace the paragraph above with an
-honest account of the trial, or retain the limitation if no trial occurred.]
-
 ## Demo
 
-[Before publishing: add the public demo video link. The prepared local walkthrough
-uses real browser output; it is not a publicly hosted inference service.]
+[Watch the 22-second browser walkthrough](https://github.com/KTiwari05/outside-quest-hf26/blob/master/submission/demo/outside-quest-walkthrough.webm).
+
+The silent video shows a real generated activity, the takeaway view, and the text
+download. Generation happened before recording; that neighborhood reply took
+45.74 seconds. This is a local application demo, not a publicly hosted inference
+service. Setup instructions are in the repository.
+
+![Outside Quest planner](https://raw.githubusercontent.com/KTiwari05/outside-quest-hf26/master/submission/demo/01-planner.png)
+
+![Takeaway view with a generated outdoor activity](https://raw.githubusercontent.com/KTiwari05/outside-quest-hf26/master/submission/demo/05-takeaway.png)
 
 ## Code
 
-[Before publishing: add the new public GitHub repository URL.]
+[Outside Quest source code and setup instructions](https://github.com/KTiwari05/outside-quest-hf26).
 
 The application code is MIT licensed. Model weights are installed separately and
 retain their upstream license.
@@ -95,7 +100,7 @@ the activity, you can close the app and take it with you.
 ## My Agent Session
 
 Codex assisted with implementation, live model checks, browser verification, and
-preparing this draft. No public agent session is linked yet.
+preparing this submission. No public agent session is linked.
 
 ## Prize Categories
 
